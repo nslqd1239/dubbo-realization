@@ -1,0 +1,14 @@
+# Idea Project files
+.idea/
+target
+/logs
+*.iml
+.iml
+node_modules
+src/config/*.tmp
+npm-debug.log
+
+# Eclipse Project files
+.classpath
+.project
+.settings/
