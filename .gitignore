@@ -1,4 +1,5 @@
 # Idea Project files
+
 .idea/
 target
 /logs
@@ -9,6 +10,7 @@ src/config/*.tmp
 npm-debug.log
 
 # Eclipse Project files
+
 .classpath
 .project
 .settings/
